@@ -1,4 +1,4 @@
-# pradeepp
+# pradeepb-pixel
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,40:0a192f,70:112240,100:2D7EFF&height=160&section=header&text=PRADEEP%20B&fontSize=55&fontColor=64ffda&fontAlignY=55&animation=blinking&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Agentic%20AI%20Developer&descSize=15&descAlignY=80&descColor=8892b0" width="100%"/>
