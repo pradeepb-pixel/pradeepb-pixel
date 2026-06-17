@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&width=700&lines= +Building+multi-agent+AI+systems+at+Visa;+LangGraph+%7C+LangChain+%7C+Claude+API+%7C+RAG;☁️+AWS+Bedrock+%7C+GCP+Vertex+AI;🔬+Turning+LLM+research+into+production+AI;Connecticut%2C+USA+%7C+Open+to+opportunities)](https://git.io/typing-svg)
+
 
 </div>
 
