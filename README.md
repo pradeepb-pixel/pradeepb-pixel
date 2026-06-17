@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&width=700&lines=⚡+Building+multi-agent+AI+systems+at+Visa;🧠+LangGraph+%7C+LangChain+%7C+Claude+API+%7C+RAG;☁️+AWS+Bedrock+%7C+GCP+Vertex+AI;🔬+Turning+LLM+research+into+production+AI;📍+Connecticut%2C+USA+%7C+Open+to+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&width=700&lines= +Building+multi-agent+AI+systems+at+Visa;+LangGraph+%7C+LangChain+%7C+Claude+API+%7C+RAG;☁️+AWS+Bedrock+%7C+GCP+Vertex+AI;🔬+Turning+LLM+research+into+production+AI;Connecticut%2C+USA+%7C+Open+to+opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -37,20 +37,20 @@ class PradeepB:
     education    = "M.S. Computer Science — University of Bridgeport"
     experience   = "2+ years building production AI systems"
 
-    currently_at = "Visa 💳"   # Multi-agent fraud detection & compliance AI
+    currently_at = "Visa "   # Multi-agent fraud detection & compliance AI
 
     expertise = {
         "LLMs"      : ["Claude API", "LangGraph", "LangChain", "RAG", "Fine-Tuning"],
         "Cloud"     : ["AWS Bedrock", "SageMaker", "GCP Vertex AI", "BigQuery"],
         "Domains"   : ["Financial Services", "Healthcare", "Agentic AI"],
-        "Languages" : ["Python 🐍", "SQL", "R", "Spark", "Bash"],
+        "Languages" : ["Python ", "SQL", "R", "Spark", "Bash"],
     }
 
     fun_facts = [
-        "💡 Shipped 4 production AI systems across Visa, Citi & CVS Health",
-        "🤖 Built multi-agent systems with LangGraph before it was cool",
-        "☁️ AWS + GCP certified practitioner of AI at scale",
-        "📊 Dashboards that stakeholders actually use (Power BI, Tableau)",
+        " Shipped 4 production AI systems across Visa, Citi & CVS Health",
+        " Built multi-agent systems with LangGraph before it was cool",
+        " AWS + GCP certified practitioner of AI at scale",
+        " Dashboards that stakeholders actually use (Power BI, Tableau)",
     ]
 
     def hire_me(self):
@@ -59,7 +59,7 @@ class PradeepB:
 
 ---
 
-## 🏆 What I've Built
+## What I've Built
 
 <div align="center">
 
@@ -92,7 +92,7 @@ class PradeepB:
 
 ---
 
-## 🛠️ Arsenal
+##  Arsenal
 
 <div align="center">
 
@@ -140,7 +140,7 @@ class PradeepB:
 
 ---
 
-## 📊 Stats
+##  Stats
 
 <div align="center">
 
@@ -162,18 +162,18 @@ class PradeepB:
 
 ```
   2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  May 2025 ► Present   💳 Data Scientist / AI Engineer @ Visa
+  May 2025 ► Present    Data Scientist / AI Engineer @ Visa
                            Multi-agent fraud detection · Compliance AI · RAG
 
   2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Sep 2024 ► Apr 2025  🏦 Data Scientist @ Citi Bank
+  Sep 2024 ► Apr 2025  Data Scientist @ Citi Bank
                            AI customer service · NLP classification · Risk scoring
 
   2023 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Apr 2023 ► Aug 2024  💊 Data Scientist Intern @ CVS Health
+  Apr 2023 ► Aug 2024   Data Scientist Intern @ CVS Health
                            Forecasting · Analytics dashboards · Optimization
 
-  🎓  M.S. Computer Science · University of Bridgeport, Bridgeport CT
+   M.S. Computer Science · University of Bridgeport, Bridgeport CT
 ```
 
 ---
