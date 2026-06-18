@@ -50,7 +50,7 @@ Scoped and shipped an AI-powered customer service assistant using AWS Lex and LL
 
 ---
 
-**Data Scientist — CVS Health**
+**Data Scientist — CVS Health  INTERN**
 `Apr 2023 – Aug 2024`
 
 Built demand forecasting models on GCP Vertex AI to optimize inventory planning across healthcare supply chains. Reduced stock shortage incidents through predictive alerting. Developed reporting pipelines in BigQuery and Looker. Documented all systems thoroughly and handed off ownership to internal teams with runbooks and training sessions.
