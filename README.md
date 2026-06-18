@@ -26,7 +26,7 @@
 
 ## About
 
-AI Engineer with 2 years of experience building and deploying production-grade LLM applications inside financial services and healthcare organizations. My work spans the full lifecycle — scoping projects with stakeholders, building Claude-powered agents and RAG pipelines, training teams to own the tools, and writing documentation that survives handoff.
+AI Engineer with 2 years of experience building and deploying production-grade LLM applications inside financial services and healthcare organizations. My work spans the full lifecycle  scoping projects with stakeholders, building Claude-powered agents and RAG pipelines, training teams to own the tools, and writing documentation that survives handoff.
 
 I have shipped multi-agent systems at Visa, AI customer service tooling at Citi Bank, and forecasting infrastructure at CVS Health. I work well with both technical and non-technical audiences and care about building things that continue working after I leave.
 
@@ -64,7 +64,7 @@ Built demand forecasting models on GCP Vertex AI to optimize inventory planning 
 ## Projects
 
 **Multi-Agent Fraud Detection System**
-LangGraph-based multi-agent platform on AWS Bedrock. Four specialized agents — fraud detector, compliance validator, transaction monitor, and reporting agent — coordinate through a shared state graph to analyze transactions in real time. Built and deployed at Visa.
+LangGraph-based multi-agent platform on AWS Bedrock. Four specialized agents  fraud detector, compliance validator, transaction monitor, and reporting agent  coordinate through a shared state graph to analyze transactions in real time. Built and deployed at Visa.
 [github.com/pradeepb-pixel/multi-agent-fraud-detection](https://github.com/pradeepb-pixel/multi-agent-fraud-detection)
 
 ---
