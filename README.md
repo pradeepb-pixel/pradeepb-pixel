@@ -36,28 +36,28 @@ Currently open to AI Engineer and Data Scientist roles.
 
 ## Experience
 
-**Data Scientist / AI Engineer — Visa**
+**Data Scientist / AI Engineer Visa**
 `May 2025 – Present`
 
 Embedded with the financial crime and compliance team to scope and build AI solutions for fraud detection and regulatory workflow automation. Worked directly with business stakeholders to define sprint outcomes. Built a multi-agent system using LangGraph and LangChain on AWS Bedrock that coordinates fraud scoring, compliance validation, transaction monitoring, and audit reporting. Developed RAG architecture using AWS Bedrock Knowledge Bases and Claude API for contextual document retrieval across compliance policy repositories. Ran internal training sessions for engineering and compliance staff.
 
 ---
 
-**Data Scientist — Citi Bank**
+**Data Scientist  Citi Bank**
 `Sep 2024 – Apr 2025`
 
 Scoped and shipped an AI-powered customer service assistant using AWS Lex and LLM integration that reduced support ticket volume and improved first-response quality. Built NLP classification models for transaction categorization and risk-scoring pipelines for credit operations. Worked with non-technical stakeholders to define success metrics and built dashboards in Power BI and Tableau to track model performance.
 
 ---
 
-**Data Scientist — CVS Health  INTERN**
+**Data Scientist  CVS Health  INTERN**
 `Apr 2023 – Aug 2024`
 
 Built demand forecasting models on GCP Vertex AI to optimize inventory planning across healthcare supply chains. Reduced stock shortage incidents through predictive alerting. Developed reporting pipelines in BigQuery and Looker. Documented all systems thoroughly and handed off ownership to internal teams with runbooks and training sessions.
 
 ---
 
-**M.S. Computer Science — University of Bridgeport, Connecticut**
+**M.S. Computer Science  University of Bridgeport, Connecticut**
 
 ---
 
